@@ -23,7 +23,7 @@ I am a technology enthusiast, I am passionate about being able to investigate an
 * Youtube: [lucianolagassa](https://www.youtube.com/channel/UCIO1CHMSTzWkc_knnORFgOA)
 
 
-## Formación
+## Formación 👨‍🎓🇦🇷
 
 * Ingeniero en Sistemas Informáticos (2021)
 * Analista de Sistemas Informáticos (2020)
@@ -31,7 +31,7 @@ I am a technology enthusiast, I am passionate about being able to investigate an
 * Cursos y Capacitaciones Varias (2001-2021)
 
 
-## Education
+## Education 👨‍🎓🇺🇸
 
 * Computer Systems Engineer (2021)
 * Computer Systems Analyst (2020)
@@ -39,7 +39,7 @@ I am a technology enthusiast, I am passionate about being able to investigate an
 * Various Courses and Trainings (2001-2021)
 
 
-## Habilidades
+## Habilidades 🧰🇦🇷
 
 * Administrador de Sistemas e Infraestructuras Informáticas
 * Conectividad VPN
@@ -49,7 +49,7 @@ I am a technology enthusiast, I am passionate about being able to investigate an
 * Virtualización y Gestión de Servidores
 
 
-## Skills
+## Skills 🧰🇺🇸
 
 * Automation Solution Developer
 * Computer Systems and Infrastructures Administrator
